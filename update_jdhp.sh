@@ -1,3 +1,3 @@
 #!/bin/sh
 
-cp -v minimax_slides.pdf ~/git/pub/jdhp/files/pdf/
+cp -v minimax_slides_en.pdf ~/git/pub/projects/jdhp/files/pdf/
